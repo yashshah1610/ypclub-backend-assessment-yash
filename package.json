@@ -1,0 +1,22 @@
+{
+  "name": "ypclub-backend-assessment-your-name",
+  "version": "1.0.0",
+  "description": "Backend assessment solution (Express + in-memory DB + JWT).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "jwt",
+    "assessment",
+    "auction"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
