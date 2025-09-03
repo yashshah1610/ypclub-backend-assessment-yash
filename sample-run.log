@@ -1,0 +1,4 @@
+[2025-09-02 11:45:03] Server listening on http://localhost:3000
+[login] issued token for sub=charlie
+[bid] accepted amount=120 for auction id=1 by bidder=charlie
+[notify] Notified bidders for auction "Vintage Guitar" (id=1) at 2025-09-02T11:45:03Z
